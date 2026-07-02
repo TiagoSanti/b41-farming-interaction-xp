@@ -1,0 +1,47 @@
+[h1]B41 Farming Interaction XP[/h1]
+
+Distributes Farming XP across the full farming loop in [b]Project Zomboid Build 41[/b].
+
+Instead of earning Agriculture progression almost entirely at harvest time, this mod rewards the main crop interactions during the full lifecycle:
+
+[list]
+[*]Plowing furrows
+[*]Sowing seeds
+[*]Watering crops
+[*]Fertilizing crops
+[*]Harvest remains vanilla
+[/list]
+
+[b]Main goals[/b]
+[list]
+[*]Make Farming progression feel more natural
+[*]Support Host multiplayer correctly
+[*]Keep harvest behavior familiar
+[*]Avoid invasive rewrites of the vanilla farming loop
+[/list]
+
+[b]Compatibility[/b]
+[list]
+[*]Targeted at Build 41.78
+[*]Designed primarily for Host multiplayer
+[*]Also supports single-player
+[*]No dependency on other mods
+[/list]
+
+[b]Balance[/b]
+This release uses action values based on the defaults from [i]Vanilla Agriculture Fix[/i] as a balance reference for furrow, sow, water, and fertilize.
+
+[b]Harvest[/b]
+Harvest XP is intentionally left on the vanilla behavior for this release.
+
+[b]Credits / References[/b]
+[list]
+[*][i]Vanilla Agriculture Fix[/i] by DarylMasterGG - gameplay and balance reference only
+[*][i]Project Zomboid Studio[/i] by Konijima - project/build tooling
+[/list]
+
+[b]AI Assistance Disclaimer[/b]
+This mod was written with AI assistance for development, debugging, and documentation. Final implementation, testing, balancing, and release decisions remain the responsibility of the author.
+
+[b]Author[/b]
+Becker

@@ -1,0 +1,29 @@
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Local Codex / workspace helpers
+.agents/
+.libraries/
+
+# Node / tooling
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Local temp / logs
+*.log
+tmp/
+temp/
+
+# Project Zomboid local artifacts
+workshop.txt
+*.bak
+
+# Third-party reference material kept only for local study
+references/VanillaAgricultureFix/
