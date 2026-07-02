@@ -1,4 +1,4 @@
-{
+﻿{
     "$schema": "https://raw.githubusercontent.com/Konijima/project-zomboid-studio/master/pzstudio.schema.json",
     "title": "B41 Farming Interaction XP",
     "authors": [
@@ -16,7 +16,7 @@
     "mods": {
         "B41FarmingInteractionXP": {
             "name": "B41 Farming Interaction XP",
-            "description": "Distributes Farming XP across furrow, sow, water, and fertilize while preserving vanilla harvest behavior. Compatible with Host multiplayer and single-player on Build 41.",
+            "description": "Distributes Farming XP across furrow, sow, water, and fertilize while preserving vanilla harvest behavior.",
             "versionMin": "41.0",
             "versionMax": "41.78"
         }
