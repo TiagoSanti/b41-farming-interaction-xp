@@ -1,9 +1,6 @@
 [h1]B41 Farming Interaction XP[/h1]
-
 Distributes Farming XP across the full farming loop in [b]Project Zomboid Build 41[/b].
-
-Instead of earning Agriculture progression almost entirely at harvest time, this mod rewards the main crop interactions during the full lifecycle:
-
+Instead of earning Agriculture progression almost entirely at harvest time, this mod rewards the main crop interactions throughout the full lifecycle:
 [list]
 [*]Plowing furrows
 [*]Sowing seeds
@@ -13,25 +10,22 @@ Instead of earning Agriculture progression almost entirely at harvest time, this
 [/list]
 
 [h1]Balance[/h1]
-
 [list]
 [*]Furrow XP: 1.0
 [*]Sowing XP: 2.0
 [*]Watering XP: 2.0
 [*]Fertilizing XP: 4.0
-[*]Harvest bonus XP: 1.0 — vanilla behavior preserved
+[*]Harvest bonus XP: 1.0 — vanilla harvest behavior is preserved
 [/list]
 
 [h1]Installation[/h1]
-
-Single-player:
+[b]Single-player[/b]
 Enable the mod in the Mods menu before loading the save.
+[b]Host multiplayer[/b]
+Enable both the Workshop item and the mod in the server settings.
+All players will be asked to download the Workshop item before joining the server.
 
-Host multiplayer:
-Enable the Workshop item and the mod in the server settings.
-All players will be asked to download it before joining the server.
-
-[b]Compatibility[/b]
+[h1]Compatibility[/h1]
 [list]
 [*]Targeted at Build 41.78
 [*]Designed primarily for Host multiplayer
@@ -39,11 +33,34 @@ All players will be asked to download it before joining the server.
 [*]No dependency on other mods
 [/list]
 
-[b]Credits / References[/b]
+[h1]Contributing[/h1]
+Contributions are welcome.
+You can help improve the mod through:
 [list]
-[*][i]Vanilla Agriculture Fix[/i] by DarylMasterGG - gameplay and balance reference only
-[*][i]Project Zomboid Studio[/i] by Konijima - build tooling
+[*]Bug reports
+[*]Feature suggestions
+[*]Host multiplayer testing
+[*]Balance feedback
+[*]Code improvements
+[*]Documentation improvements
+[*]Translations
+[/list]
+For code contributions:
+[list=1]
+[*]Fork the repository
+[*]Create a branch for your changes
+[*]Implement and test the changes in Build 41
+[*]Open a Pull Request with a clear description
+[/list]
+For gameplay or balance changes, include enough information for the behavior to be reproduced and reviewed.
+[url=https://github.com/TiagoSanti/b41-farming-interaction-xp/]GitHub Repository[/url]
+
+[h1]Credits / References[/h1]
+[list]
+[*][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3751370563/]Vanilla Agriculture Fix[/url] by DarylMasterGG — gameplay and balance reference only
+[*][url=https://github.com/Konijima/project-zomboid-studio]Project Zomboid Studio[/url] by Konijima — build tooling
 [/list]
 
-[b]AI Assistance Disclaimer[/b]
-This mod was written with AI assistance for development, debugging, and documentation. Final implementation, testing, balancing, and release decisions remain the responsibility of the author.
+[h1]AI Assistance Disclaimer[/h1]
+This mod was written with AI assistance for development, debugging, and documentation.
+Final implementation, testing, balancing, and release decisions remain the responsibility of the author.
