@@ -1,7 +1,5 @@
 [h1]B41 Farming Interaction XP[/h1]
 
-[b]EN[/b]
-
 Distributes Farming XP across the full farming loop in [b]Project Zomboid Build 41[/b].
 
 Instead of earning Agriculture progression almost entirely at harvest time, this mod rewards the main crop interactions during the full lifecycle:
