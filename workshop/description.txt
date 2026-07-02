@@ -14,6 +14,25 @@ Instead of earning Agriculture progression almost entirely at harvest time, this
 [*]Harvest remains vanilla
 [/list]
 
+[h1]Balance[/h1]
+
+[list]
+[*]Furrow XP: 1.0
+[*]Sowing XP: 2.0
+[*]Watering XP: 2.0
+[*]Fertilizing XP: 4.0
+[*]Harvest bonus XP: 1.0 — vanilla behavior preserved
+[/list]
+
+[h1]Installation[/h1]
+
+Single-player:
+Enable the mod in the Mods menu before loading the save.
+
+Host multiplayer:
+Enable the Workshop item and the mod in the server settings.
+All players will be asked to download it before joining the server.
+
 [b]Compatibility[/b]
 [list]
 [*]Targeted at Build 41.78
