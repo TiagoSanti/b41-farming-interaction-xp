@@ -27,10 +27,8 @@ B41FIX.Config = {
     -- Multiplier applied to all mod-granted XP (does not affect vanilla XP).
     GlobalXPMultiplier = 1.0,
 
-    -- Extra scale applied before handing the value to B41's XP system.
-    -- This keeps per-action config values readable while preserving a visible
-    -- reward for small farming interactions.
-    EngineXPMultiplier = 4.0,
+    -- Extra scale can be applied before handing the value to B41's XP system.
+    EngineXPMultiplier = 1.0,
 
     -- Print DEBUG/TRACE messages to the PZ console. Set false for release.
     DebugLogging = true,
